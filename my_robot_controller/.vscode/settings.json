@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/build/wshop_nodes",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/build/my_robot_controller",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/px4_offboard/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/px4_offboard/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/build/wshop_nodes",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/build/my_robot_controller",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/px4_offboard/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/sophia/Desktop/bwsi-uav/ros2_uav_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/px4_offboard/lib/python3.10/site-packages",
+        "/home/sophia/Desktop/bwsi-uav/dev-ws/ros2_uav_ws/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
